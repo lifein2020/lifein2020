@@ -5,6 +5,7 @@
 <!-- https://shields.io/ -->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D76A8&color=585858)](https://www.linkedin.com/in/svetlana-zhivtsova/)
+[![Talent Badge](https://img.shields.io/badge/talent.io-Profile-informational?style=flat-square&logo=talent.io&logoColor=white&labelColor=fbce70&color=585858)](https://www.talent.io/candidates/343053002126/candidate_profile)
 [![HeadHunter Badge](https://img.shields.io/badge/HeadHunter-Profile-informational?style=flat-square&logo=hh&logoColor=white&labelColor=C00000&color=585858)](https://hh.ru/applicant/resumes/view?resume=dc21ccfdff09d331c90039ed1f76467a37504c)
 
 <!-- ![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)-->
@@ -34,6 +35,8 @@
 
 ### 📈 GitHub Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
+
+[![Codewarrior Profile Badges](https://www.codewars.com/users/lifein2020/badges/large)](https://www.codewars.com/users/lifein2020)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifein2020&langs_count=8)](https://github.com/lifein2020/github-readme-stats)
 [![Svetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifein2020&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=48)](https://github.com/lifein2020/github-readme-stats)

@@ -5,7 +5,7 @@
 <!-- https://shields.io/ -->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D76A8&color=585858)](https://www.linkedin.com/in/svetlana-zhivtsova/)
-[![HeadHunter Badge](https://img.shields.io/badge/HeadHunter-Profile-informational?style=flat-square&logo=hh&logoColor=white&labelColor=C00000&color=585858)](https://www.linkedin.com/in/svetlana-zhivtsova/)
+[![HeadHunter Badge](https://img.shields.io/badge/HeadHunter-Profile-informational?style=flat-square&logo=hh&logoColor=white&labelColor=C00000&color=585858)](https://hh.ru/applicant/resumes/view?resume=dc21ccfdff09d331c90039ed1f76467a37504c)
 
 <!-- ![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)-->
 

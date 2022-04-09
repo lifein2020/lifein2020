@@ -35,9 +35,9 @@
 ### 📈 GitHub Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifein2020&langs_count=8&card_width=400)](https://github.com/lifein2020/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifein2020&langs_count=8)](https://github.com/lifein2020/github-readme-stats)
 [![Svetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifein2020&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=48)](https://github.com/lifein2020/github-readme-stats)
-<!-- can add &layout=compact -->
+<!-- can add &layout=compact, &card_width=400 -->
 
 
 

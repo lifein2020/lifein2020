@@ -39,7 +39,7 @@
 [![Codewarrior Profile Badges](https://www.codewars.com/users/lifein2020/badges/large)](https://www.codewars.com/users/lifein2020)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifein2020)](https://github.com/lifein2020/github-readme-stats)
-[![Svetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifein2020&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=45)](https://github.com/lifein2020/github-readme-stats)
+[![Svetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifein2020&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=48)](https://github.com/lifein2020/github-readme-stats)
 <!-- can add &layout=compact, &card_width=400 -->
 
 

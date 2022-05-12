@@ -13,7 +13,7 @@
 - 💞️ I love to create progressive and user-friendly applications and web pages
 - 🎯 I aspire to become a cool front-end developer
 - 🌱 I want to learn new frameworks
-- 🔥 I burning with desire to work in a team on real projects
+- 🔥 I am eager to work in a team on real projects
 
 ### 💼 Skills
 <!-- https://github.com/Ileriayo/markdown-badges#markdown-badges-->

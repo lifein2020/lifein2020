@@ -33,8 +33,8 @@
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 <!-- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)-->
-<br>
 
+<!--
 ## 📌 Pinned Repositories
 
 [![Mesto-React Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=react-mesto-auth)](https://github.com/lifein2020/react-mesto-auth)
@@ -43,7 +43,6 @@
 [![How-to-learn Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=how-to-learn)](https://github.com/lifein2020/how-to-learn)
 [![Viva_italia Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=viva_italia)](https://github.com/lifein2020/viva_italia)
 [![Coffee-machine Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=coffee-machine)](https://github.com/lifein2020/coffee-machine)
-
 <!--
 <a href="https://github.com/lifein2020/mesto">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=mesto&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -70,9 +69,9 @@
 <a href="https://github.com/lifein2020/how-to-learn">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=how-to-learn&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
--->
+
 <br>
-<br>
+<br> -->
 
 ## 📈 GitHub Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->

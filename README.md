@@ -41,6 +41,8 @@
 [![Mesto Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=mesto)](https://github.com/lifein2020/mesto)
 [![Russian-travel Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=russian-travel)](https://github.com/lifein2020/russian-travel)
 [![How-to-learn Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=how-to-learn)](https://github.com/lifein2020/how-to-learn)
+[![Viva_italia Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=viva_italia)](https://github.com/lifein2020/viva_italia)
+[![Coffee-machine Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=coffee-machine)](https://github.com/lifein2020/coffee-machine)
 
 <!--
 <a href="https://github.com/lifein2020/mesto">

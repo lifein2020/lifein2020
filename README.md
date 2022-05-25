@@ -39,6 +39,8 @@
 
 [![Mesto-React Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=react-mesto-auth)](https://github.com/lifein2020/react-mesto-auth)
 [![Mesto Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=mesto)](https://github.com/lifein2020/mesto)
+[![Russian-travel Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=russian-travel)](https://github.com/lifein2020/russian-travel)
+[![How-to-learn Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=how-to-learn)](https://github.com/lifein2020/how-to-learn)
 
 <!--
 <a href="https://github.com/lifein2020/mesto">

@@ -15,7 +15,8 @@
 - 🌱 I want to learn new frameworks
 - 🔥 I am eager to work in a team on real projects
 
-### 💼 Skills
+
+## 💼 Skills
 <!-- https://github.com/Ileriayo/markdown-badges#markdown-badges-->
 
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,10 +33,9 @@
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 <!-- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)-->
-
-### 📌 Pinned Repositories
-
 <br>
+
+## 📌 Pinned Repositories
 
 <a href="https://github.com/lifein2020/react-mesto-auth">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=react-mesto-auth&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -62,7 +62,7 @@
 <br>
 <br>
 
-### 📈 GitHub Stats 
+## 📈 GitHub Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/lifein2020/badges/large)](https://www.codewars.com/users/lifein2020)

@@ -37,11 +37,17 @@
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein20202&repo=react-mesto-auth)](https://github.com/lifein2020/react-mesto-auth)
+[![Mesto-React Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=react-mesto-auth)](https://github.com/lifein2020/react-mesto-auth)
+[![Mesto Card](https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=mesto)](https://github.com/lifein2020/mesto)
+
+<!--
+<a href="https://github.com/lifein2020/mesto">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=mesto&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> 
 
 <a href="https://github.com/lifein2020/react-mesto-auth">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=react-mesto-auth&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> 
 
 <br>
 
@@ -60,7 +66,7 @@
 <a href="https://github.com/lifein2020/how-to-learn">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lifein2020&repo=how-to-learn&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+-->
 <br>
 <br>
 

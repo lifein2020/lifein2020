@@ -11,9 +11,9 @@
 <!-- ![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)-->
 
 - 💞️ I love to create progressive and user-friendly applications and web pages
-- 🎯 I aspire to become a cool front-end developer
-- 🌱 I want to learn new frameworks
-- 🔥 I am eager to work in a team on real projects
+- 🎯 I aspire to be a cool front-end developer
+- 🌱 I'm interested in trying new frameworks
+- 🔥 I want to work in a team of professionals passionate the development
 
 
 ## 💼 Skills

@@ -12,7 +12,7 @@
 
 - 💞️ I love to create progressive and user-friendly applications and web pages
 - 🎯 I aspire to be a cool front-end developer
-- 🌱 I'm interested in trying new frameworks
+- 🌱 I'm interested in trying a new frameworks
 - 🔥 I want to work in a team of professionals passionate the development
 
 

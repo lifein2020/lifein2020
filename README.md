@@ -104,7 +104,8 @@ You can click the Preview link to take a look at your changes.
 ### 🔨 Мой стек: 
 
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="22">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next" height="24">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="24">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Saas" height="24">
 <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" height="24">
